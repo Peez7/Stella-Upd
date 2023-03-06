@@ -1,0 +1,98 @@
+
+body{position: relative;
+
+
+}
+
+.nav-item.active .nav-link {
+    color: red;
+    background-color: lightgray;
+  }
+  
+
+
+
+
+.push50 { position: absolute;
+    top: 60%;
+    left: 50%;
+    
+}
+
+.itemswrapper {display: inline-block;
+    margin-left: 50px;}
+
+.mediabox {
+    flex-wrap: wrap;
+    text-align: center;
+  justify-content: center;
+  margin-left: 10%;
+  margin-right: 10%;
+
+
+  }
+
+
+.items {float: left;
+    display: flex;
+    margin: 20px;
+    text-align:left;
+}
+
+.txtright {
+        float: right;
+        margin-left: 10px;
+
+
+}
+
+.ftcentered{
+    text-align: center;
+    padding: .75rem;
+
+}
+
+    
+.contact{ display: inline-block;
+    width: 100%;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  
+
+
+#homeImg { max-width: 100%;
+            height: auto;
+        ;
+
+
+}
+
+
+#topdiv { 
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+#about{
+    background-color: #FBF7F0;
+    text-align: center;
+
+}
+
+#contactimg{ margin-left: 20%;
+
+
+}
+
+
+
